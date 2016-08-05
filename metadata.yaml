@@ -1,0 +1,27 @@
+_repo: India-s-Love-Lyrics_8197
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hope, Laurence
+    aliases:
+    - Nicolson, Adela Florence Cory
+    - Hope, Lawrence
+    birthdate: 1865
+    deathdate: 1904
+    gutenberg_agent_id: '1706'
+    url: http://www.gutenberg.org/2009/agents/1706
+description: ''
+gutenberg_issued: '2005-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '8197'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'India -- Poetry'
+- GITenberg
+title: India's Love Lyrics
+url: http://www.gutenberg.org/ebooks/8197
